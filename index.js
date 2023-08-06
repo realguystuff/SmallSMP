@@ -1,5 +1,5 @@
 require('./server.js');
-require('./deploy.js');
+//require('./deploy.js');
 
 const fs = require('node:fs');
 const path = require('node:path');
